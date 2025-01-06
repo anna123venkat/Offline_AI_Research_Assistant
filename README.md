@@ -1,6 +1,6 @@
 ---
 
-# Offline AI Research Assistant
+## Offline AI Research Assistant
 
 **Offline AI Research Assistant** is an intelligent tool designed to assist researchers by providing access to a wide range of information and tools even in offline environments. This project was developed as part of a mini-project for the **B.Tech in Artificial Intelligence and Data Science** program at **Mepco Schlenk Engineering College**.
 
