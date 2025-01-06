@@ -1,6 +1,8 @@
+Here's a README file for your project:
+
 ---
 
-## Offline AI Research Assistant
+# Offline AI Research Assistant
 
 **Offline AI Research Assistant** is an intelligent tool designed to assist researchers by providing access to a wide range of information and tools even in offline environments. This project was developed as part of a mini-project for the **B.Tech in Artificial Intelligence and Data Science** program at **Mepco Schlenk Engineering College**.
 
@@ -83,7 +85,7 @@ The assistant operates without requiring an internet connection, making it ideal
 
 ---
 
-## System Approach
+## Flowchart
 
 Below is the flow of the system:
 
@@ -91,6 +93,13 @@ Below is the flow of the system:
 2. Split documents into chunks using `RecursiveCharacterTextSplitter`.
 3. Create embeddings and a vector store using `OpenAIEmbeddings` and `FAISS`.
 4. Process user queries via `ConversationalRetrievalChain` and return intelligent responses.
+
+---
+
+## Screenshots
+
+- **User Interface**: Example queries and results.
+- **System Architecture**: Flowchart depicting the document loading, processing, and response generation.
 
 ---
 
@@ -109,3 +118,11 @@ We thank the management, faculty, and staff of **Mepco Schlenk Engineering Colle
 - **Ms. L. Prasika**, Assistant Professor (SG), for her guidance and support.
 
 ---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Let me know if you need additional customization!
