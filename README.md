@@ -1,5 +1,3 @@
-Here's a README file for your project:
-
 ---
 
 # Offline AI Research Assistant
@@ -85,7 +83,7 @@ The assistant operates without requiring an internet connection, making it ideal
 
 ---
 
-## Flowchart
+## System Flow
 
 Below is the flow of the system:
 
@@ -95,14 +93,6 @@ Below is the flow of the system:
 4. Process user queries via `ConversationalRetrievalChain` and return intelligent responses.
 
 ---
-
-## Screenshots
-
-- **User Interface**: Example queries and results.
-- **System Architecture**: Flowchart depicting the document loading, processing, and response generation.
-
----
-
 ## Contributors
 
 - **Dinesh Kumar S** (9517202109016)
@@ -118,11 +108,3 @@ We thank the management, faculty, and staff of **Mepco Schlenk Engineering Colle
 - **Ms. L. Prasika**, Assistant Professor (SG), for her guidance and support.
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you need additional customization!
